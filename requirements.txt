@@ -1,0 +1,3 @@
+# Python dependencies for CI/CD demo
+# No external dependencies needed for this simple demo
+# Using only Python standard library (unittest)

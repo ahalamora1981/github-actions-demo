@@ -1,0 +1,7 @@
+[project]
+name = "github-actions-demo"
+version = "0.1.0"
+description = "一个完整的GitHub Actions CI/CD演示项目 - Python计算器"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

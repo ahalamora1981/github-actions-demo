@@ -8,7 +8,7 @@ import os
 # Add src to path
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), '..', 'src'))
 
-from calculator import add, subtract, multiply, divide, power
+from calculator import add, subtract, multiply, divide, power  # noqa: E402
 
 
 class TestCalculator(unittest.TestCase):

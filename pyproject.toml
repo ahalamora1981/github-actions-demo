@@ -5,3 +5,8 @@ description = "一个完整的GitHub Actions CI/CD演示项目 - Python计算器
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
+
+[dependency-groups]
+dev = [
+    "flake8>=7.3.0",
+]
